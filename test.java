@@ -8,7 +8,7 @@
  *
  *  Pricinpe:
  *  ---------
- *  	creation d'un programme qui le passage d'une temperature du celsius au Fahrenheit et vis versa.
+ *  	creation d'un programme qui permet le passage d'une temperature du celsius au Fahrenheit et vis versa.
  *
  * 
  * auteur:   REICH VIRI
