@@ -47,7 +47,7 @@ do
        	System.out.print("    -Entrer votre choix: ");
         choix = sc.nextLine().charAt(0);
 	
-      	if(choix !='1' && choix != '2'){System.out.println("\nla valeur saisir n'est pas consideree, recommencer");}
+      	if(choix !='1' && choix != '2'){System.out.println("\nla valeur saisie n'est pas consideree, recommencer");}
      }while(choix != '1' && choix != '2');
 
 /*------------------------------------------------------------------------------------
@@ -77,7 +77,7 @@ do
 
       replay = sc.nextLine().charAt(0);
 
-      	if(replay !='o' && replay != 'n'){System.out.println("\nla valeur saisir n'est pas consideree, recommencer");}
+      	if(replay !='o' && replay != 'n'){System.out.println("\nla valeur saisie n'est pas consideree, recommencer");}
 
 
     }while(replay != 'o' && replay != 'n');
